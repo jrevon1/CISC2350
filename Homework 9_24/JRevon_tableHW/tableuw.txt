@@ -1,0 +1,18 @@
+.urgent{background-color:pink;
+        color:green;}
+
+.highlight{background-color:yellow;
+        color:red;}
+
+table, td, th { border: 2px solid black; }
+table { border-collapse: collapse; }
+table{color:green;}
+
+th{color:red;}
+td{color:blue;}
+th.class1{ color:aqua;
+           background-color:orange;}
+.class1{ color: white;
+         background-color:purple;}
+
+

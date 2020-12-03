@@ -1,0 +1,31 @@
+/* Homework 2 for CISC2350 - Jordan Revon 9/19/2020 */
+
+.urgent{background-color:pink;
+        color:green;}
+
+.highlight{background-color:yellow;
+        color:red;}
+
+table, td, th { border: 2px solid black; }
+table { border-collapse: collapse; }
+table{color:green;}
+
+th{color:red;}
+td{color:blue;}
+th.class1{ color:aqua;
+           background-color:orange;}
+.class1{ color: white;
+         background-color:purple;}
+.class2{ color: green;
+         font-weight: bold;
+		 font-style: italic;
+		 font-size: 40px;
+		 }
+#id1{
+		 color: green;
+         font-weight: bold;
+		 font-style: italic;
+		 font-size: 40px;
+		}
+
+
