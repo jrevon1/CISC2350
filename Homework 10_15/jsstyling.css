@@ -1,0 +1,18 @@
+/* Homework 4 for CISC2350 - Jordan Revon 10/11/2020 */
+
+/* Styling for the text display box*/
+#textContainer{
+	background-color: green;
+	width: 200px;
+	height: 200px;
+	margin-top: 40px;
+	margin-left: 40px;
+	text-align: center;
+	
+}
+
+/* Some separate styling to keep the span text centered vertically*/
+#textOutput{
+	display: inline-block;
+	padding: 40% 0;
+}
